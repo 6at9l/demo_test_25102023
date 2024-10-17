@@ -1,6 +1,6 @@
 {
-    "name": "movecat_app_test",
-    "short_name": "movecat_app_test",
+    "name": "moveket",
+    "short_name": "moveket",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
